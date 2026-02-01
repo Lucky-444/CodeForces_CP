@@ -1,0 +1,1 @@
+#include <bits/stdc++.h>using namespace std; int main() {    ios::sync_with_stdio(false);    cin.tie(nullptr);     int T;    cin >> T;     while (T--) {        int n;        cin >> n;         int digits = to_string(n).size();        int base = pow(10, digits - 1);         int ans = 9 * (digits - 1);        ans += n / base;         cout << ans << '\n';    }    return 0;}

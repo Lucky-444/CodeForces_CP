@@ -1,0 +1,1 @@
+#include <bits/stdc++.h>using namespace std;using ll = long long; int main() {	// your code goes here	int  a ,b , c, d;	cin >> a >> b >> c >> d;		string s;        cin >> s;	    unordered_map<char , int>mp;	    mp['1'] = a;    mp['2'] = b;    mp['3'] = c;    mp['4'] = d;        ll sum = 0;        for(auto it : s){        sum += mp[it];    }        cout << sum  << endl; }

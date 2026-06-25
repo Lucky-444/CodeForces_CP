@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 6 |
+| 4 | 8 |
 
 ---
 
@@ -14,10 +14,12 @@
 
 - [brute force](#brute-force) (1)
 - [data structures](#data-structures) (2)
-- [dfs and similar](#dfs-and-similar) (1)
+- [dfs and similar](#dfs-and-similar) (2)
+- [dp](#dp) (1)
+- [graphs](#graphs) (1)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (2)
-- [trees](#trees) (2)
+- [trees](#trees) (3)
 
 ---
 
@@ -38,7 +40,20 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 682C | [Alyona and the Tree](https://codeforces.com/contest/682/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/682/C%20-%20Alyona%20and%20the%20Tree/solution.cpp) |
 | 1593E | [Gardener and Tree](https://codeforces.com/contest/1593/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1593/E%20-%20Gardener%20and%20Tree/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 682C | [Alyona and the Tree](https://codeforces.com/contest/682/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/682/C%20-%20Alyona%20and%20the%20Tree/solution.cpp) |
+
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 682C | [Alyona and the Tree](https://codeforces.com/contest/682/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/682/C%20-%20Alyona%20and%20the%20Tree/solution.cpp) |
 
 ### greedy
 
@@ -59,6 +74,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 682C | [Alyona and the Tree](https://codeforces.com/contest/682/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/682/C%20-%20Alyona%20and%20the%20Tree/solution.cpp) |
 | 1385F | [Removing Leaves](https://codeforces.com/contest/1385/problem/F) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1385/F%20-%20Removing%20Leaves/solution.cpp) |
 | 1593E | [Gardener and Tree](https://codeforces.com/contest/1593/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1593/E%20-%20Gardener%20and%20Tree/solution.cpp) |
 

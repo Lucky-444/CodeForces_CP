@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 56 | 21 |
+| 58 | 21 |
 
 ---
 
@@ -15,22 +15,22 @@
 - [Uncategorized](#uncategorized) (6)
 - [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (14)
+- [brute force](#brute-force) (15)
 - [constructive algorithms](#constructive-algorithms) (9)
 - [data structures](#data-structures) (6)
-- [dfs and similar](#dfs-and-similar) (6)
+- [dfs and similar](#dfs-and-similar) (7)
 - [dp](#dp) (7)
 - [games](#games) (1)
 - [geometry](#geometry) (1)
-- [graphs](#graphs) (6)
-- [greedy](#greedy) (35)
+- [graphs](#graphs) (7)
+- [greedy](#greedy) (36)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (12)
-- [math](#math) (27)
+- [math](#math) (28)
 - [number theory](#number-theory) (7)
 - [probabilities](#probabilities) (1)
-- [shortest paths](#shortest-paths) (4)
-- [sortings](#sortings) (6)
+- [shortest paths](#shortest-paths) (5)
+- [sortings](#sortings) (7)
 - [strings](#strings) (5)
 - [trees](#trees) (5)
 
@@ -77,6 +77,7 @@
 | 2048A | [Kevin and Combination Lock](https://codeforces.com/contest/2048/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2048/A%20-%20Kevin%20and%20Combination%20Lock/solution.cpp) |
 | 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
 | 2162B | [Beautiful String](https://codeforces.com/contest/2162/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2162/B%20-%20Beautiful%20String/solution.cpp) |
+| 2163A | [Souvlaki VS. Kalamaki](https://codeforces.com/contest/2163/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2163/A%20-%20Souvlaki%20VS.%20Kalamaki/solution.cpp) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 
 ### constructive algorithms
@@ -113,6 +114,7 @@
 | 682C | [Alyona and the Tree](https://codeforces.com/contest/682/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/682/C%20-%20Alyona%20and%20the%20Tree/solution.cpp) |
 | 839C | [Journey](https://codeforces.com/contest/839/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/839/C%20-%20Journey/solution.cpp) |
 | 1101D | [GCD Counting](https://codeforces.com/contest/1101/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1101/D%20-%20GCD%20Counting/solution.cpp) |
+| 1272E | [Nearest Opposite Parity](https://codeforces.com/contest/1272/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1272/E%20-%20Nearest%20Opposite%20Parity/solution.cpp) |
 | 1593E | [Gardener and Tree](https://codeforces.com/contest/1593/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1593/E%20-%20Gardener%20and%20Tree/solution.cpp) |
 
 ### dp
@@ -149,6 +151,7 @@
 | 545E | [Paths and Trees](https://codeforces.com/contest/545/problem/E) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/545/E%20-%20Paths%20and%20Trees/solution.cpp) |
 | 682C | [Alyona and the Tree](https://codeforces.com/contest/682/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/682/C%20-%20Alyona%20and%20the%20Tree/solution.cpp) |
 | 839C | [Journey](https://codeforces.com/contest/839/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/839/C%20-%20Journey/solution.cpp) |
+| 1272E | [Nearest Opposite Parity](https://codeforces.com/contest/1272/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1272/E%20-%20Nearest%20Opposite%20Parity/solution.cpp) |
 
 ### greedy
 
@@ -186,6 +189,7 @@
 | 2055A | [Two Frogs](https://codeforces.com/contest/2055/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2055/A%20-%20Two%20Frogs/solution.cpp) |
 | 2062A | [String](https://codeforces.com/contest/2062/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2062/A%20-%20String/solution.cpp) |
 | 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
+| 2163A | [Souvlaki VS. Kalamaki](https://codeforces.com/contest/2163/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2163/A%20-%20Souvlaki%20VS.%20Kalamaki/solution.cpp) |
 | 2182A | [New Year String](https://codeforces.com/contest/2182/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2182/A%20-%20New%20Year%20String/solution.cpp) |
 | 2193C | [Replace and Sum](https://codeforces.com/contest/2193/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2193/C%20-%20Replace%20and%20Sum/solution.cpp) |
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
@@ -243,6 +247,7 @@
 | 2053A | [Tender Carpenter](https://codeforces.com/contest/2053/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2053/A%20-%20Tender%20Carpenter/solution.cpp) |
 | 2055A | [Two Frogs](https://codeforces.com/contest/2055/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2055/A%20-%20Two%20Frogs/solution.cpp) |
 | 2062A | [String](https://codeforces.com/contest/2062/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2062/A%20-%20String/solution.cpp) |
+| 2163A | [Souvlaki VS. Kalamaki](https://codeforces.com/contest/2163/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2163/A%20-%20Souvlaki%20VS.%20Kalamaki/solution.cpp) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 
 ### number theory
@@ -271,6 +276,7 @@
 | 242C | [King's Path](https://codeforces.com/contest/242/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/242/C%20-%20King's%20Path/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
 | 545E | [Paths and Trees](https://codeforces.com/contest/545/problem/E) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/545/E%20-%20Paths%20and%20Trees/solution.cpp) |
+| 1272E | [Nearest Opposite Parity](https://codeforces.com/contest/1272/problem/E) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1272/E%20-%20Nearest%20Opposite%20Parity/solution.cpp) |
 
 ### sortings
 
@@ -282,6 +288,7 @@
 | 2021A | [Meaning Mean](https://codeforces.com/contest/2021/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2021/A%20-%20Meaning%20Mean/solution.cpp) |
 | 2030A | [A Gift From Orangutan](https://codeforces.com/contest/2030/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2030/A%20-%20A%20Gift%20From%20Orangutan/solution.cpp) |
 | 2042A | [Greedy Monocarp](https://codeforces.com/contest/2042/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2042/A%20-%20Greedy%20Monocarp/solution.cpp) |
+| 2163A | [Souvlaki VS. Kalamaki](https://codeforces.com/contest/2163/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2163/A%20-%20Souvlaki%20VS.%20Kalamaki/solution.cpp) |
 
 ### strings
 

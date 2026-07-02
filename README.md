@@ -6,32 +6,32 @@
 
 | Total Problems | Topics |
 |---|---|
-| 42 | 21 |
+| 56 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (6)
-- [binary search](#binary-search) (1)
+- [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (8)
-- [constructive algorithms](#constructive-algorithms) (7)
-- [data structures](#data-structures) (5)
+- [brute force](#brute-force) (14)
+- [constructive algorithms](#constructive-algorithms) (9)
+- [data structures](#data-structures) (6)
 - [dfs and similar](#dfs-and-similar) (6)
-- [dp](#dp) (5)
+- [dp](#dp) (7)
 - [games](#games) (1)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (6)
-- [greedy](#greedy) (28)
+- [greedy](#greedy) (35)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (9)
-- [math](#math) (24)
-- [number theory](#number-theory) (6)
+- [implementation](#implementation) (12)
+- [math](#math) (27)
+- [number theory](#number-theory) (7)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (4)
-- [sortings](#sortings) (5)
-- [strings](#strings) (2)
+- [sortings](#sortings) (6)
+- [strings](#strings) (5)
 - [trees](#trees) (5)
 
 ---
@@ -52,6 +52,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 229B | [Planets](https://codeforces.com/contest/229/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/229/B%20-%20Planets/solution.cpp) |
+| 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
 
 ### bitmasks
 
@@ -63,6 +64,9 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 1244B | [Rooms and Staircases](https://codeforces.com/contest/1244/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1244/B%20-%20Rooms%20and%20Staircases/solution.cpp) |
+| 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
 | 1593E | [Gardener and Tree](https://codeforces.com/contest/1593/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1593/E%20-%20Gardener%20and%20Tree/solution.cpp) |
 | 1981A | [Turtle and Piggy Are Playing a Game](https://codeforces.com/contest/1981/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1981/A%20-%20Turtle%20and%20Piggy%20Are%20Playing%20a%20Game/solution.cpp) |
 | 1992A | [Only Pluses](https://codeforces.com/contest/1992/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1992/A%20-%20Only%20Pluses/solution.cpp) |
@@ -71,6 +75,9 @@
 | 2020A | [Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2020/A%20-%20Find%20Minimum%20Operations/solution.cpp) |
 | 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.cpp) |
 | 2048A | [Kevin and Combination Lock](https://codeforces.com/contest/2048/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2048/A%20-%20Kevin%20and%20Combination%20Lock/solution.cpp) |
+| 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
+| 2162B | [Beautiful String](https://codeforces.com/contest/2162/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2162/B%20-%20Beautiful%20String/solution.cpp) |
+| 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 
 ### constructive algorithms
 
@@ -83,6 +90,8 @@
 | 2031A | [Penchick and Modern Monument](https://codeforces.com/contest/2031/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2031/A%20-%20Penchick%20and%20Modern%20Monument/solution.cpp) |
 | 2055A | [Two Frogs](https://codeforces.com/contest/2055/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2055/A%20-%20Two%20Frogs/solution.cpp) |
 | 2062A | [String](https://codeforces.com/contest/2062/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2062/A%20-%20String/solution.cpp) |
+| 2162B | [Beautiful String](https://codeforces.com/contest/2162/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2162/B%20-%20Beautiful%20String/solution.cpp) |
+| 2182A | [New Year String](https://codeforces.com/contest/2182/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2182/A%20-%20New%20Year%20String/solution.cpp) |
 
 ### data structures
 
@@ -93,6 +102,7 @@
 | 1385F | [Removing Leaves](https://codeforces.com/contest/1385/problem/F) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1385/F%20-%20Removing%20Leaves/solution.cpp) |
 | 1593E | [Gardener and Tree](https://codeforces.com/contest/1593/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1593/E%20-%20Gardener%20and%20Tree/solution.cpp) |
 | 2021A | [Meaning Mean](https://codeforces.com/contest/2021/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2021/A%20-%20Meaning%20Mean/solution.cpp) |
+| 2193C | [Replace and Sum](https://codeforces.com/contest/2193/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2193/C%20-%20Replace%20and%20Sum/solution.cpp) |
 
 ### dfs and similar
 
@@ -109,6 +119,8 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 455A | [Boredom](https://codeforces.com/contest/455/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/455/A%20-%20Boredom/solution.cpp) |
+| 545C | [Woodcutters](https://codeforces.com/contest/545/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/545/C%20-%20Woodcutters/solution.cpp) |
 | 682C | [Alyona and the Tree](https://codeforces.com/contest/682/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/682/C%20-%20Alyona%20and%20the%20Tree/solution.cpp) |
 | 839C | [Journey](https://codeforces.com/contest/839/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/839/C%20-%20Journey/solution.cpp) |
 | 1101D | [GCD Counting](https://codeforces.com/contest/1101/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1101/D%20-%20GCD%20Counting/solution.cpp) |
@@ -143,9 +155,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
+| 545C | [Woodcutters](https://codeforces.com/contest/545/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/545/C%20-%20Woodcutters/solution.cpp) |
 | 545E | [Paths and Trees](https://codeforces.com/contest/545/problem/E) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/545/E%20-%20Paths%20and%20Trees/solution.cpp) |
 | 1385F | [Removing Leaves](https://codeforces.com/contest/1385/problem/F) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1385/F%20-%20Removing%20Leaves/solution.cpp) |
+| 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
 | 1593E | [Gardener and Tree](https://codeforces.com/contest/1593/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1593/E%20-%20Gardener%20and%20Tree/solution.cpp) |
+| 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
+| 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
 | 1934A | [Too Min Too Max](https://codeforces.com/contest/1934/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1934/A%20-%20Too%20Min%20Too%20Max/solution.cpp) |
 | 1981A | [Turtle and Piggy Are Playing a Game](https://codeforces.com/contest/1981/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1981/A%20-%20Turtle%20and%20Piggy%20Are%20Playing%20a%20Game/solution.cpp) |
 | 1982A | [Soccer](https://codeforces.com/contest/1982/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1982/A%20-%20Soccer/solution.cpp) |
@@ -169,6 +185,9 @@
 | 2053A | [Tender Carpenter](https://codeforces.com/contest/2053/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2053/A%20-%20Tender%20Carpenter/solution.cpp) |
 | 2055A | [Two Frogs](https://codeforces.com/contest/2055/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2055/A%20-%20Two%20Frogs/solution.cpp) |
 | 2062A | [String](https://codeforces.com/contest/2062/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2062/A%20-%20String/solution.cpp) |
+| 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
+| 2182A | [New Year String](https://codeforces.com/contest/2182/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2182/A%20-%20New%20Year%20String/solution.cpp) |
+| 2193C | [Replace and Sum](https://codeforces.com/contest/2193/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2193/C%20-%20Replace%20and%20Sum/solution.cpp) |
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
 
 ### hashing
@@ -183,6 +202,8 @@
 |---|---------|------------|----------|
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 1027A | [Palindromic Twist](https://codeforces.com/contest/1027/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1027/A%20-%20Palindromic%20Twist/solution.cpp) |
+| 1244B | [Rooms and Staircases](https://codeforces.com/contest/1244/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1244/B%20-%20Rooms%20and%20Staircases/solution.cpp) |
 | 1385F | [Removing Leaves](https://codeforces.com/contest/1385/problem/F) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1385/F%20-%20Removing%20Leaves/solution.cpp) |
 | 1593E | [Gardener and Tree](https://codeforces.com/contest/1593/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1593/E%20-%20Gardener%20and%20Tree/solution.cpp) |
 | 1982A | [Soccer](https://codeforces.com/contest/1982/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1982/A%20-%20Soccer/solution.cpp) |
@@ -190,13 +211,16 @@
 | 2022A | [Bus to Pénjamo](https://codeforces.com/contest/2022/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2022/A%20-%20Bus%20to%20P%C3%A9njamo/solution.cpp) |
 | 2032A | [Circuit](https://codeforces.com/contest/2032/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2032/A%20-%20Circuit/solution.cpp) |
 | 2048A | [Kevin and Combination Lock](https://codeforces.com/contest/2048/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2048/A%20-%20Kevin%20and%20Combination%20Lock/solution.cpp) |
+| 2182A | [New Year String](https://codeforces.com/contest/2182/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2182/A%20-%20New%20Year%20String/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
 | 762A | [k-th divisor](https://codeforces.com/contest/762/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/762/A%20-%20k-th%20divisor/solution.cpp) |
+| 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
 | 1934A | [Too Min Too Max](https://codeforces.com/contest/1934/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1934/A%20-%20Too%20Min%20Too%20Max/solution.cpp) |
 | 1981A | [Turtle and Piggy Are Playing a Game](https://codeforces.com/contest/1981/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1981/A%20-%20Turtle%20and%20Piggy%20Are%20Playing%20a%20Game/solution.cpp) |
 | 1982A | [Soccer](https://codeforces.com/contest/1982/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1982/A%20-%20Soccer/solution.cpp) |
@@ -219,6 +243,7 @@
 | 2053A | [Tender Carpenter](https://codeforces.com/contest/2053/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2053/A%20-%20Tender%20Carpenter/solution.cpp) |
 | 2055A | [Two Frogs](https://codeforces.com/contest/2055/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2055/A%20-%20Two%20Frogs/solution.cpp) |
 | 2062A | [String](https://codeforces.com/contest/2062/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2062/A%20-%20String/solution.cpp) |
+| 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 
 ### number theory
 
@@ -226,6 +251,7 @@
 |---|---------|------------|----------|
 | 762A | [k-th divisor](https://codeforces.com/contest/762/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/762/A%20-%20k-th%20divisor/solution.cpp) |
 | 1101D | [GCD Counting](https://codeforces.com/contest/1101/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1101/D%20-%20GCD%20Counting/solution.cpp) |
+| 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
 | 2007A | [Dora's Set](https://codeforces.com/contest/2007/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2007/A%20-%20Dora's%20Set/solution.cpp) |
 | 2020A | [Find Minimum Operations](https://codeforces.com/contest/2020/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2020/A%20-%20Find%20Minimum%20Operations/solution.cpp) |
 | 2032A | [Circuit](https://codeforces.com/contest/2032/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2032/A%20-%20Circuit/solution.cpp) |
@@ -250,6 +276,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
 | 1982A | [Soccer](https://codeforces.com/contest/1982/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1982/A%20-%20Soccer/solution.cpp) |
 | 1992A | [Only Pluses](https://codeforces.com/contest/1992/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1992/A%20-%20Only%20Pluses/solution.cpp) |
 | 2021A | [Meaning Mean](https://codeforces.com/contest/2021/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2021/A%20-%20Meaning%20Mean/solution.cpp) |
@@ -260,8 +287,11 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 1027A | [Palindromic Twist](https://codeforces.com/contest/1027/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1027/A%20-%20Palindromic%20Twist/solution.cpp) |
 | 2062A | [String](https://codeforces.com/contest/2062/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2062/A%20-%20String/solution.cpp) |
+| 2182A | [New Year String](https://codeforces.com/contest/2182/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2182/A%20-%20New%20Year%20String/solution.cpp) |
 
 ### trees
 

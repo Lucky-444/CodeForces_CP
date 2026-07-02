@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 14 |
+| 15 | 14 |
 
 ---
 
@@ -17,14 +17,14 @@
 - [data structures](#data-structures) (3)
 - [dfs and similar](#dfs-and-similar) (6)
 - [dp](#dp) (3)
-- [graphs](#graphs) (4)
-- [greedy](#greedy) (4)
+- [graphs](#graphs) (5)
+- [greedy](#greedy) (5)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (3)
 - [math](#math) (1)
 - [number theory](#number-theory) (1)
 - [probabilities](#probabilities) (1)
-- [shortest paths](#shortest-paths) (2)
+- [shortest paths](#shortest-paths) (3)
 - [trees](#trees) (5)
 
 ---
@@ -79,6 +79,7 @@
 |---|---------|------------|----------|
 | 242C | [King's Path](https://codeforces.com/contest/242/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/242/C%20-%20King's%20Path/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
+| 545E | [Paths and Trees](https://codeforces.com/contest/545/problem/E) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/545/E%20-%20Paths%20and%20Trees/solution.cpp) |
 | 682C | [Alyona and the Tree](https://codeforces.com/contest/682/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/682/C%20-%20Alyona%20and%20the%20Tree/solution.cpp) |
 | 839C | [Journey](https://codeforces.com/contest/839/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/839/C%20-%20Journey/solution.cpp) |
 
@@ -87,6 +88,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
+| 545E | [Paths and Trees](https://codeforces.com/contest/545/problem/E) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/545/E%20-%20Paths%20and%20Trees/solution.cpp) |
 | 1385F | [Removing Leaves](https://codeforces.com/contest/1385/problem/F) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1385/F%20-%20Removing%20Leaves/solution.cpp) |
 | 1593E | [Gardener and Tree](https://codeforces.com/contest/1593/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1593/E%20-%20Gardener%20and%20Tree/solution.cpp) |
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
@@ -129,6 +131,7 @@
 |---|---------|------------|----------|
 | 242C | [King's Path](https://codeforces.com/contest/242/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/242/C%20-%20King's%20Path/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
+| 545E | [Paths and Trees](https://codeforces.com/contest/545/problem/E) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/545/E%20-%20Paths%20and%20Trees/solution.cpp) |
 
 ### trees
 

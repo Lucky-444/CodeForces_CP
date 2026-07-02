@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 13 |
+| 14 | 14 |
 
 ---
 
@@ -14,17 +14,18 @@
 
 - [Uncategorized](#uncategorized) (6)
 - [brute force](#brute-force) (1)
-- [data structures](#data-structures) (2)
-- [dfs and similar](#dfs-and-similar) (5)
-- [dp](#dp) (2)
+- [data structures](#data-structures) (3)
+- [dfs and similar](#dfs-and-similar) (6)
+- [dp](#dp) (3)
 - [graphs](#graphs) (4)
 - [greedy](#greedy) (4)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (3)
 - [math](#math) (1)
+- [number theory](#number-theory) (1)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (2)
-- [trees](#trees) (4)
+- [trees](#trees) (5)
 
 ---
 
@@ -49,6 +50,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1101D | [GCD Counting](https://codeforces.com/contest/1101/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1101/D%20-%20GCD%20Counting/solution.cpp) |
 | 1385F | [Removing Leaves](https://codeforces.com/contest/1385/problem/F) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1385/F%20-%20Removing%20Leaves/solution.cpp) |
 | 1593E | [Gardener and Tree](https://codeforces.com/contest/1593/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1593/E%20-%20Gardener%20and%20Tree/solution.cpp) |
 
@@ -60,6 +62,7 @@
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
 | 682C | [Alyona and the Tree](https://codeforces.com/contest/682/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/682/C%20-%20Alyona%20and%20the%20Tree/solution.cpp) |
 | 839C | [Journey](https://codeforces.com/contest/839/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/839/C%20-%20Journey/solution.cpp) |
+| 1101D | [GCD Counting](https://codeforces.com/contest/1101/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1101/D%20-%20GCD%20Counting/solution.cpp) |
 | 1593E | [Gardener and Tree](https://codeforces.com/contest/1593/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1593/E%20-%20Gardener%20and%20Tree/solution.cpp) |
 
 ### dp
@@ -68,6 +71,7 @@
 |---|---------|------------|----------|
 | 682C | [Alyona and the Tree](https://codeforces.com/contest/682/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/682/C%20-%20Alyona%20and%20the%20Tree/solution.cpp) |
 | 839C | [Journey](https://codeforces.com/contest/839/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/839/C%20-%20Journey/solution.cpp) |
+| 1101D | [GCD Counting](https://codeforces.com/contest/1101/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1101/D%20-%20GCD%20Counting/solution.cpp) |
 
 ### graphs
 
@@ -107,6 +111,12 @@
 |---|---------|------------|----------|
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
 
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1101D | [GCD Counting](https://codeforces.com/contest/1101/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1101/D%20-%20GCD%20Counting/solution.cpp) |
+
 ### probabilities
 
 | # | Problem | Difficulty | Solution |
@@ -126,6 +136,7 @@
 |---|---------|------------|----------|
 | 682C | [Alyona and the Tree](https://codeforces.com/contest/682/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/682/C%20-%20Alyona%20and%20the%20Tree/solution.cpp) |
 | 839C | [Journey](https://codeforces.com/contest/839/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/839/C%20-%20Journey/solution.cpp) |
+| 1101D | [GCD Counting](https://codeforces.com/contest/1101/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1101/D%20-%20GCD%20Counting/solution.cpp) |
 | 1385F | [Removing Leaves](https://codeforces.com/contest/1385/problem/F) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1385/F%20-%20Removing%20Leaves/solution.cpp) |
 | 1593E | [Gardener and Tree](https://codeforces.com/contest/1593/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1593/E%20-%20Gardener%20and%20Tree/solution.cpp) |
 

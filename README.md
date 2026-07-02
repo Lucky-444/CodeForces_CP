@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 58 | 21 |
+| 59 | 21 |
 
 ---
 
@@ -18,21 +18,21 @@
 - [brute force](#brute-force) (15)
 - [constructive algorithms](#constructive-algorithms) (9)
 - [data structures](#data-structures) (6)
-- [dfs and similar](#dfs-and-similar) (7)
+- [dfs and similar](#dfs-and-similar) (8)
 - [dp](#dp) (7)
 - [games](#games) (1)
 - [geometry](#geometry) (1)
-- [graphs](#graphs) (7)
-- [greedy](#greedy) (36)
+- [graphs](#graphs) (8)
+- [greedy](#greedy) (37)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (12)
 - [math](#math) (28)
 - [number theory](#number-theory) (7)
 - [probabilities](#probabilities) (1)
-- [shortest paths](#shortest-paths) (5)
+- [shortest paths](#shortest-paths) (6)
 - [sortings](#sortings) (7)
 - [strings](#strings) (5)
-- [trees](#trees) (5)
+- [trees](#trees) (6)
 
 ---
 
@@ -109,6 +109,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 61D | [Eternal Victory](https://codeforces.com/contest/61/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/61/D%20-%20Eternal%20Victory/solution.cpp) |
 | 242C | [King's Path](https://codeforces.com/contest/242/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/242/C%20-%20King's%20Path/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
 | 682C | [Alyona and the Tree](https://codeforces.com/contest/682/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/682/C%20-%20Alyona%20and%20the%20Tree/solution.cpp) |
@@ -145,6 +146,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 61D | [Eternal Victory](https://codeforces.com/contest/61/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/61/D%20-%20Eternal%20Victory/solution.cpp) |
 | 229B | [Planets](https://codeforces.com/contest/229/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/229/B%20-%20Planets/solution.cpp) |
 | 242C | [King's Path](https://codeforces.com/contest/242/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/242/C%20-%20King's%20Path/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
@@ -157,6 +159,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 61D | [Eternal Victory](https://codeforces.com/contest/61/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/61/D%20-%20Eternal%20Victory/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
 | 545C | [Woodcutters](https://codeforces.com/contest/545/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/545/C%20-%20Woodcutters/solution.cpp) |
 | 545E | [Paths and Trees](https://codeforces.com/contest/545/problem/E) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/545/E%20-%20Paths%20and%20Trees/solution.cpp) |
@@ -272,6 +275,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 61D | [Eternal Victory](https://codeforces.com/contest/61/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/61/D%20-%20Eternal%20Victory/solution.cpp) |
 | 229B | [Planets](https://codeforces.com/contest/229/problem/B) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/229/B%20-%20Planets/solution.cpp) |
 | 242C | [King's Path](https://codeforces.com/contest/242/problem/C) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/242/C%20-%20King's%20Path/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
@@ -304,6 +308,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 61D | [Eternal Victory](https://codeforces.com/contest/61/problem/D) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/61/D%20-%20Eternal%20Victory/solution.cpp) |
 | 682C | [Alyona and the Tree](https://codeforces.com/contest/682/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/682/C%20-%20Alyona%20and%20the%20Tree/solution.cpp) |
 | 839C | [Journey](https://codeforces.com/contest/839/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/839/C%20-%20Journey/solution.cpp) |
 | 1101D | [GCD Counting](https://codeforces.com/contest/1101/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1101/D%20-%20GCD%20Counting/solution.cpp) |

@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 60 | 21 |
+| 61 | 22 |
 
 ---
 
@@ -19,13 +19,13 @@
 - [constructive algorithms](#constructive-algorithms) (9)
 - [data structures](#data-structures) (6)
 - [dfs and similar](#dfs-and-similar) (9)
-- [dp](#dp) (8)
+- [dp](#dp) (9)
 - [games](#games) (1)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (8)
 - [greedy](#greedy) (38)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (12)
+- [implementation](#implementation) (13)
 - [math](#math) (28)
 - [number theory](#number-theory) (7)
 - [probabilities](#probabilities) (1)
@@ -33,6 +33,7 @@
 - [sortings](#sortings) (7)
 - [strings](#strings) (5)
 - [trees](#trees) (7)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -124,6 +125,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 274B | [Zero Tree](https://codeforces.com/contest/274/problem/B) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/274/B%20-%20Zero%20Tree/solution.cpp) |
+| 279C | [Ladder](https://codeforces.com/contest/279/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/279/C%20-%20Ladder/solution.cpp) |
 | 455A | [Boredom](https://codeforces.com/contest/455/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/455/A%20-%20Boredom/solution.cpp) |
 | 545C | [Woodcutters](https://codeforces.com/contest/545/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/545/C%20-%20Woodcutters/solution.cpp) |
 | 682C | [Alyona and the Tree](https://codeforces.com/contest/682/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/682/C%20-%20Alyona%20and%20the%20Tree/solution.cpp) |
@@ -210,6 +212,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 279C | [Ladder](https://codeforces.com/contest/279/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/279/C%20-%20Ladder/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 1027A | [Palindromic Twist](https://codeforces.com/contest/1027/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1027/A%20-%20Palindromic%20Twist/solution.cpp) |
@@ -318,6 +321,12 @@
 | 1101D | [GCD Counting](https://codeforces.com/contest/1101/problem/D) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1101/D%20-%20GCD%20Counting/solution.cpp) |
 | 1385F | [Removing Leaves](https://codeforces.com/contest/1385/problem/F) | 2300 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1385/F%20-%20Removing%20Leaves/solution.cpp) |
 | 1593E | [Gardener and Tree](https://codeforces.com/contest/1593/problem/E) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1593/E%20-%20Gardener%20and%20Tree/solution.cpp) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 279C | [Ladder](https://codeforces.com/contest/279/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/279/C%20-%20Ladder/solution.cpp) |
 
 ---
 

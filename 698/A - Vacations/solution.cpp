@@ -49,7 +49,8 @@ int main() {
     memset(dp, -1, sizeof(dp));
  
     // prev = 0 means no restriction initially
-    cout << solve(n - 1, 0, a) << "
+    cout<< solve(n - 1, 0, a) << "
 ";
-}
  
+    return 0;
+}

@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 61 | 22 |
+| 62 | 23 |
 
 ---
 
@@ -19,14 +19,15 @@
 - [constructive algorithms](#constructive-algorithms) (9)
 - [data structures](#data-structures) (6)
 - [dfs and similar](#dfs-and-similar) (9)
-- [dp](#dp) (9)
+- [dp](#dp) (10)
 - [games](#games) (1)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (8)
 - [greedy](#greedy) (38)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (13)
-- [math](#math) (28)
+- [math](#math) (29)
+- [matrices](#matrices) (1)
 - [number theory](#number-theory) (7)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (6)
@@ -124,6 +125,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 166E | [Tetrahedron](https://codeforces.com/contest/166/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/166/E%20-%20Tetrahedron/solution.cpp) |
 | 274B | [Zero Tree](https://codeforces.com/contest/274/problem/B) | 1800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/274/B%20-%20Zero%20Tree/solution.cpp) |
 | 279C | [Ladder](https://codeforces.com/contest/279/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/279/C%20-%20Ladder/solution.cpp) |
 | 455A | [Boredom](https://codeforces.com/contest/455/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/455/A%20-%20Boredom/solution.cpp) |
@@ -231,6 +233,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 166E | [Tetrahedron](https://codeforces.com/contest/166/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/166/E%20-%20Tetrahedron/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
 | 762A | [k-th divisor](https://codeforces.com/contest/762/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/762/A%20-%20k-th%20divisor/solution.cpp) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
@@ -258,6 +261,12 @@
 | 2062A | [String](https://codeforces.com/contest/2062/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2062/A%20-%20String/solution.cpp) |
 | 2163A | [Souvlaki VS. Kalamaki](https://codeforces.com/contest/2163/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2163/A%20-%20Souvlaki%20VS.%20Kalamaki/solution.cpp) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
+
+### matrices
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 166E | [Tetrahedron](https://codeforces.com/contest/166/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Lucky-444/CodeForces_CP/blob/HEAD/166/E%20-%20Tetrahedron/solution.cpp) |
 
 ### number theory
 
